@@ -11,3 +11,4 @@ I’m an experienced EU project coordinator, and I love to write project proposa
 At my free-time, I like to do yoga, dance flamenco, and walk and run in the forests of Helsinki. My favorite route is to run to the Pitkäkoski rapids, where I can have a short (or sometimes long!) break and just watch the water to flow.
 
 <img src="https://makavi.github.io/images/OmaKuvaVTT2.jpg" width="20%" />
+![pitkakoski](images/pitkakoski.jpg)
