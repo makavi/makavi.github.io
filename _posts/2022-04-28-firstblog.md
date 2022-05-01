@@ -1,3 +1,11 @@
-# Who is AccuMama?!?
+# How it started
 
-I'm a battery scientist.
+The idea to develop batteries was due to a practical need. I was, and still am, working with flexible electronics. Quite often we were able to produce the other components by printing, and they were flexible or even stretchable. But the energy storage component was bulky and difficult to integrate into the other parts, or it contained too toxic or dangerous materials.
+
+My colleague was facing the same issue and asked if we could use a method from one paper (precisely, this one: Sira Suren and Soorathep Kheawhom, “Development of a High Energy Density Flexible Zinc-Air Battery”, Journal of The Electrochemical Society, 163 (6) A846-A850 (2016)) and make a flexible zinc-air battery with high energy density. Well, as I had very limited knowhow on how to make batteries, I failed.
+
+This did not stop me from trying. I knew that becoming a battery manufacturing expert would require a lot of work. 
+
+Thus, I started to listen to webinars, visited battery conferences and events, read a lot, and discussed about batteries with several people. I also started to build up a lab where we could make batteries in a reliable and repeatable way. As I was already working with flexible and printed electronics, we had some relevant processing infra and knowhow available. However, not everything. And it was not so easy to find out exactly what I would need. I also did not have a very big budget available. But step by step, and with help from my colleagues, we started to build the facilities.
+
+I also soon realized that I want to develop also other than flexible batteries. Batteries are such an important enabler for cutting down the CO2 emissions. Electric vehicles need them, and we are not able to utilize solar and wind energy without being able to store the energy. Currently, I’m focusing mainly on next generation batteries for electric vehicles and am very excited also about possibilities for stationary energy storage with new and more sustainable battery materials.
