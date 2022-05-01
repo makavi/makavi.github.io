@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: AccuMama
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+title: MyBatteryStories
+description: This blog is a place to find your answers to battery questions! Keep them coming. I'll do my best to help you.
 github_username: makavi
 
 # Email and twitter are optional:
