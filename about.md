@@ -12,4 +12,5 @@ At my free-time, I like to do yoga, dance flamenco, and walk and run in the fore
 
 <img src="https://makavi.github.io/images/OmaKuvaVTT2.jpg" width="20%" />
 
+
 ![pitkakoski](images/pitkakoski.jpg)
