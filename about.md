@@ -1,5 +1,7 @@
 # About
 
+<img src="https://makavi.github.io/images/Marja-Vilkman-02.jpg" width="100%" />
+
 My name is Marja Vilkman and I’m working as a scientist at VTT Technical Research Centre of Finland.
 
 I’m a polymer chemist and polymer physicist by training. I did my master’s degree at the chemistry department of Aalto University (back then, it was still called Helsinki University of Technology) in 2002 and graduated from the physics department from the same university as a doctor in 2010.
