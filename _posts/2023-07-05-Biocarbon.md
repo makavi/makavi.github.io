@@ -1,4 +1,4 @@
-# Biobased carbon & energy storage
+# Biobased carbon and energy storage
 Carbon-based materials are important for energy storage applications. Several types of carbons are used in batteries and supercapacitors. The origin and properties of these carbons vary. I’ll give in this blog text a summary of the main carbon materials that are currently used in energy storage applications, and then describe the opportunities of using biobased carbon materials in the same applications.
 
 ## Graphite
